@@ -21,10 +21,10 @@ Um serviço para gerenciamento de produtos, incluindo operações como criação
    - src/config/
    -cria uma arquivo: .env
      ```bash
-     {"DB_HOST": "api.kklx4.mongodb.net",
-     "DB_USER": "ley",
-     "DB_NAME": "pr",
-     "DB_PASSWORD": "ley2",
+     {"DB_HOST": "****",
+     "DB_USER": "*",
+     "DB_NAME": "*",
+     "DB_PASSWORD": "*",
      "PORT": 8181,
      "JWT_SECRET": "your_jwt_secret"
    }
